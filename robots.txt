@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glpfive25-cyber.github.io/chatgpt-gpt5.3-turbo-mirror/sitemap.xml
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+User-agent: 360Spider
+Allow: /
